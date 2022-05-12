@@ -1,0 +1,41 @@
+.App{
+  width: 1001px;
+  text-align: center;
+  font-family: Arial;
+}
+::-webkit-scrollbar{
+  width: 25px;
+}
+::-webkit-scrollbar-track{
+  background-color:grey;
+}
+.scrollable-div {
+  background-color: #f1f1f1;
+  overflow-x: scroll;
+  white-space: nowrap;
+  text-align: justify;
+  padding: 0px;
+  margin: 20px;
+}
+
+/* The answer selecteed by the user */
+.selected {
+  background-color: orange;
+}
+
+/* The list of options */
+.options {
+  padding: 8px;
+  border: 2px solid #000;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body{
+  font-family: Verdana;
+  font-size: 18px;
+  background-color: lightgrey; 
+}
