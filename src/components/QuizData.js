@@ -81,4 +81,10 @@ export const QuizData = [
     answer:`Establishment of a high school`
     
 },
+{
+id: 12,
+    question: `What is the capital of Syria?`,
+    options: [`Syria`, `Damascus`, `Anambra`, `Enugu`],
+    answer: `Damascus`
+}
 ]

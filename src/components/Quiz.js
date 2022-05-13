@@ -79,7 +79,7 @@ finishHandler =() => {
 }
     render() {
         const {
-            question, options, currentIndex, userAnswer, quizEnd} = this.state //get the current state
+            question, options, currentIndex, userAnswer, quizEnd} = this.state 
         
         
         if(quizEnd) {
