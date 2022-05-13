@@ -62,6 +62,13 @@ export const QuizData = [
 },
 
 {
+    id: 12,
+    question: `What is the capital of Syria?`,
+    options: [`Syria`, `Damascus`, `Anambra`, `Enugu`],
+    answer: `Damascus`
+},
+
+{
     id: 10,
     question: `What is the capital of India?`,
     options: [`New Delhi`, `Abuja`, `Mumbai`, `Aba`],
