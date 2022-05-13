@@ -86,5 +86,11 @@ id: 12,
     question: `What is the capital of Syria?`,
     options: [`Syria`, `Damascus`, `Anambra`, `Enugu`],
     answer: `Damascus`
-}
+},
+{
+    id: 13,
+        question: `What is the capital of Syria?`,
+        options: [`Syria`, `Damascus`, `Anambra`, `Enugu`],
+        answer: `Damascus`
+    }
 ]
